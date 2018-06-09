@@ -4,10 +4,10 @@
   "private": true,
   "homepage": "https://glietzen.github.io/click-game",
   "dependencies": {
-  "gh-pages": "^1.2.0",
-  "react": "^16.4.0",
-  "react-dom": "^16.4.0",
-  "react-scripts": "1.1.4"
+    "gh-pages": "^1.2.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "predeploy": "npm run build",
